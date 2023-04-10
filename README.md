@@ -127,6 +127,8 @@ Based Budget vs Box Office Revenue analysis scatter plots we can conclude that i
 
 We also can conclude if you have a low budget then the best option for financial box office success would be to make a horror genre movie as they require a small budget and have a high ROI.
 
+If you are focused on profitability, than making a G-Rated movie with the a multigenre combination of ['Adventure, 'Family', Fantasy] would be the most profitable.
+
 # Success Metric - Oscar award wins and nominations
 If the objective for a successful movie is to win the Oscars then picking a genre that is more serious such as Drama or Adventure could be beneficial. Comedy movies are less likely to be nominated for Oscar awards.
 
