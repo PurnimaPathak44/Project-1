@@ -14,7 +14,7 @@ Because success can be defined in several different ways depending on what a com
 - Box Office Revenue $
 - Return on Investment (ROI)
 - Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)
-- Award Wins/Nominations
+- Award Wins/Nominations (Oscars)
 - Popularity
 
 The Group-5 Agency performed analysis on all five of these success metrics. 
