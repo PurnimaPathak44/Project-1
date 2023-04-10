@@ -18,7 +18,7 @@ Because success can be defined in several different ways depending on what a com
 
 The Group-5 Agency performed analysis on all four of these success metrics. 
 
-Are main questions are: 
+Our main questions are: 
 - "What variables influence Box Office Revenue success, ROI, and profitability?"
 - "What variables influence Award Wins/Nominations (Oscars)?"
 - "What variables influence Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)?"
