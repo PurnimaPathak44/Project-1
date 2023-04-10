@@ -69,6 +69,14 @@ The three most profitable multigenres on average:
 - ['Fantasy'] =	$737,701,800
 - ['Adventure', 'Fantasy'] = $705,119,800
 
+The top 10 multigenres were grouped together into a dataframe by the sum of 'imdbVotes', 'oscar_wins', and 'oscar_nominations'.
+
+The three multigenres with the most oscar wins: 
+- ['Drama', 'Romance'] = 24 oscar wins
+- ['Action', 'Adventure', 'Drama'] = 23	oscar wins
+- ['Action', 'Adventure', 'Sci-Fi']	= 16 oscar wins
+
+
 ### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 
 ### "Top 10 Directors vs Revenue and Runtime Regression"
