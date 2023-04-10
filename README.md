@@ -6,6 +6,7 @@ A new film company called "Rutgers" wants to produce a successful movie. In orde
 
 ## Defining a Successful Movie
 The first question The Group-5 Agency wanted to answer was "What is a succesful movie?" Financial success? Critical acclaim? Public popularity? Because success could be defined in several different ways depending on what a company desires, The Group-5 Agency decided to create a list of success metrics.
+
 - Box Office Revenue $
 - Return on Investment (ROI)
 - Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)
