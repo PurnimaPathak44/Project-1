@@ -11,13 +11,18 @@ Financial success? Critical acclaim? Public opinion?
 
 Because success can be defined in several different ways depending on what a company desires, The Group-5 Agency decided to create a list of success metrics.
 
-- Box Office Revenue $
-- Profit and Return on Investment (ROI)
+- Financial Success (Box Office Revenue $, Return on Investment (ROI), and Profitability)
 - Award Wins/Nominations (Oscars)
 - Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)
 - Popularity
 
-The Group-5 Agency performed analysis on all five of these success metrics. 
+The Group-5 Agency performed analysis on all four of these success metrics. 
+
+Are main questions are: 
+- "What variables influence Box Office Revenue success, ROI, and profitability?"
+- "What variables influence Award Wins/Nominations (Oscars)?"
+- "What variables influence Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)?"
+- "What variables influence Popularity?"
 
 This provided Rutgers with multiple options for how they will produce their version of a successful movie.
 
@@ -122,7 +127,7 @@ Similar to the average profits, PG and R movies were the most popular until arou
 # Conclusion
 After our analysis, we have discovered some significant patterns and variables that lead to a successful movie. 
 
-### Success Metric - Box office revenue and ROI
+### Success Metric - Box office revenue, ROI, and profitability
 Based Budget vs Box Office Revenue analysis scatter plots we can conclude that if you want a guaranteed higher Box Office Revenue, you may have to have use an increased budget. The r-squared-value of budget vs box office revenue was 0.49 which tells us that having an increased movie budget has a relationship with higher revenue. 
 
 We also can conclude if you have a low budget then the best option for financial box office success would be to make a horror genre movie as they require a small budget and have a high ROI.
