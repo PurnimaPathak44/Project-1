@@ -39,9 +39,9 @@ Supplemented Kaggle Data with:
 After deleting unwanted columns and merging the API data with the main Kaggle data, we had a dataset containg 1178 rows and 26 columns.
 
 ## Analysis and Findings
-### "Budget vs Box Office Revenue with IMDb Rating".
-
-
-
+### "Budget vs Box Office Revenue with IMDb Rating"
+### "Top 10 Multigenres for Oscar movies vs. Non-Oscar movies"
+### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
+### "Top 10 Directors vs Revenue and Runtime Regression"
 
 ## Conclusion
