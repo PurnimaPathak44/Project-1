@@ -44,8 +44,8 @@ Supplemented Kaggle Data with:
 After deleting unwanted columns and merging the API data with the main Kaggle data, we had a dataset containing 1178 rows and 26 columns.
 
 ## Analysis and Findings
-### 1. "Budget vs Box Office Revenue with IMDb Rating"
-Utilizing the budget and box office revenue variables, we created a scatter plot with a heat map for IMDb Ratings. The heat map demonstrates that higher IMDb Rating films on average had a higher box office revenue. 
+### 1. "Budget vs Box Office Revenue with Review Ratings"
+Utilizing the budget and box office revenue variables, we created a scatter plot with a heat map for Review Ratings. The heat map demonstrates that higher Review Rating films on average had a higher box office revenue. 
 
 ![Budget vs Box Office IMDB heatmap](https://user-images.githubusercontent.com/124934770/230952903-e18e9d96-b5aa-4a84-8df0-07cf0e1f5b1f.png)
 
@@ -53,7 +53,7 @@ The linear regressions r-squared value was around 0.49 so the strength of the mo
 
 ![Budget vs Box Office regression](https://user-images.githubusercontent.com/124934770/230952967-ad323e27-2e09-448e-b17a-4ebfd57cfa86.png)
 
-The ROI was also calculated and added to the dataframe. We printed the top 10 highest-grossing movies with ROI and IMDb Rating and found that movies in the Horror genre had the highest ROI. This can be explained by their extremely low budgets compared to the revenue they generated. For example, "Paranormal Activity" had the highest ROI with a budget of $15,0000 and revenue of $193,355,800 giving it an incredibly high ROI percentage of 1,288,939%.
+The ROI was also calculated and added to the dataframe. We printed the top 10 highest-grossing movies with ROI and Review Rating and found that movies in the Horror genre had the highest ROI. This can be explained by their extremely low budgets compared to the revenue they generated. For example, "Paranormal Activity" had the highest ROI with a budget of $15,0000 and revenue of $193,355,800 giving it an incredibly high ROI percentage of 1,288,939%.
 
 Main Findings: 
 - High rated films (Review Ratings) generate more box office revenue on average
@@ -74,7 +74,7 @@ Two bar graphs were created for the Top 10 Oscar Movies Multigenres and Top 10 N
 
 The Oscar movies appeared to have more Drama and Adventure movies while Non-Oscar movies had much more Comedy and Thriller movies. This could be explained by the Oscar movies on average being more serious and artistic style movies that are favored by movie critics while Non-Oscar movies can have more comedy and thrilling fun movies that an average audience would enjoy.
 
-The top 10 multigenres were grouped together into a dataframe by the mean of 'profit', 'revenue', 'budget', 'imdbRating', and 'popularity'.
+The top 10 multigenres were grouped together into a dataframe by the mean of 'profit', 'revenue', 'budget', 'Ratings_Combined', and 'popularity'.
 The top 10 multigenres were grouped together into a dataframe by the sum of 'imdbVotes', 'oscar_wins', and 'oscar_nominations'.
 
 Here are some example analysis tables that were generated:
@@ -92,7 +92,7 @@ The three multigenres with the most Oscar wins:
 Main Findings: 
 - If the objective for a successful movie is to win the Oscars then picking a genre that is more serious such as Drama or Adventure could be beneficial. Comedy movies are less likely to be nominated for Oscar awards.
 - Animation, Adventure, Comedy movies are the most frequent multigenre for Oscar awards and second most common multigenre for Non-Oscar movies. The budget for this multigenre is rather high (think of production companies such as "Pixar" "Walt Disney") but if the funds are there it may be worth it to try and win an Oscar. A good second option would be the Drama and Romance multigenre as it had the highest amount of Oscar wins with 24 Oscar wins.
-- If the success goal is to make a highly rated movie, then the multigenre containing Drama and War may be a good option as they have the highest IMDb Ratings on average.
+- If the success goal is to make a highly rated movie, then the multigenre containing Drama and War may be a good option as they have the highest Review Ratings on average.
 
 ### 3. "Award Wins vs Oscar Wins vs Box Office Revenue" and "Keywords percentage in Oscar Winners vs Non-Oscar Winners"
 Next we wanted to analyze the Award wins vs Oscar wins vs Box Office Revenue. Award wins were movie awards other than the Oscars such as the Sundance film festival awards for example. We created a scatter plot with Award Wins as the x value, Oscar wins as the y value, and Box Office Revenue as the value indicator for the size of the marker. The larger the marker, the higher the box office revenue.
@@ -185,9 +185,9 @@ Interestingly, [Animation, Adventure, Comedy] movies are the most frequent multi
 A good second option would be the [Drama, Romance] multigenre as it had the highest amount of Oscar wins with 24 Oscar wins.
 
 ### Success Metric - Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)
-The scatter plot heatmap from the Budget vs Box Office with IMDb Raiting verifies that a movie has to be well made to get higher review ratings. This can be strengthened by having an increased budget. 
+The scatter plot heatmap from the Budget vs Box Office with Review Raiting verifies that a movie has to be well made to get higher review ratings. This can be strengthened by having an increased budget. 
 
-If the success goal is to make a highly rated movie, then the multigenre containing Drama and War may be a good option as they have the highest IMDb Ratings on average.
+If the success goal is to make a highly rated movie, then the multigenre containing Drama and War may be a good option as they have the highest Review Ratings on average.
 
 ### Success Metric - Popularity
 G-Rated movies are the most popular on average however our line graph demonstrates that PG-13 movies have been the most popular as of late.  If a company is looking to create a succesful move base on popularity we would reccomend creating a PG-13 movie with a multigenre that may include [Adventure, Action, Sci-Fi, and Drama].
