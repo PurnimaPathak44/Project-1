@@ -42,7 +42,7 @@ After deleting unwanted columns and merging the API data with the main Kaggle da
 ### 1. "Budget vs Box Office Revenue with IMDb Rating"
 Utilizing the budget and box office revenue variables, we created a scatter plot with a heat map for IMDb Ratings. The heat map demonstrates that higher IMDb Rating films on average had a higher box office revenue. 
 
- ![alt text](Project-1 Graphs/Budget vs Box Office IMDB heatmap.png)
+ ![alt text]([Project-1/Project-1 Graphs/Budget vs Box Office IMDB heatmap.png](https://github.com/PurnimaPathak44/Project-1/blob/main/Project-1%20Graphs/Budget%20vs%20Box%20Office%20IMDB%20heatmap.png?raw=true))
 
 The linear regressions r-squared value was around 0.49 so the strength of the model can explain around 49% of the variance in the outcome variable which is relatively high. 
 
