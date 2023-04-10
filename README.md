@@ -90,7 +90,7 @@ Below are the various mean tables for the four film ratings.
 After splitting the data into dataframse containg the respective film ratings, we found that:
 - G-Rated movies won out on every category. It had the highest review ratings, budget, popularity, revenue, profit, and award wins/nominations.
 - Contrastingly, R-Rated movies had the second highest review ratings and award wins/nominations. However had the lowest revenue and budget.
-- PG and PG-13 movies were fairly similar in all metrics with PG-13 having sightly bettwer popularity and award wins/nomination values.
+- PG and PG-13 movies were fairly similar in all metrics with PG-13 having sightly higher popularity and award wins/nomination values.
 
 ### "Top 10 Directors vs Revenue and Runtime Regression"
 
