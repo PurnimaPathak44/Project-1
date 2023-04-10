@@ -139,4 +139,5 @@ A good second option would be the [Drama, Romance] multigenre as it had the high
 # Success Metric - Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)
 The scatter plot heatmap from the Budget vs Box Office with IMDb Raiting verifies that a movie has to be well made to get higher review ratings. This can be strengthened by having an increased budget. 
 
-
+# Success Metric - Popularity
+G-Rated movies are the most popular on average however our line graph demonstrates that PG-13 movies have been the most popular as of late.  If a company is looking to create a succesful move base on popularity we would reccomend creating a PG-13 movie with a multigenre that may include [Adventure, Action, Sci-Fi, and Drama].
