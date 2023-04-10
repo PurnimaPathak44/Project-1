@@ -9,7 +9,7 @@ A new film company called "Rutgers" wants to produce a successful movie. In orde
 The first thing The Group-5 Agency decided to do was define what a successful movie is by coming up with a list of success metrics.
 - Box Office Revenue $
 - Return on Investment (ROI)
-- Movie Review Ratings (IMDb, Rotten Tomatoes, Metascore)
+- Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)
 - Award Wins/Nominations
 - Popularity
 
