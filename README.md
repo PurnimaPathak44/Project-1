@@ -64,6 +64,8 @@ The Oscar movies appeared to have more Drama and Adventure movies while Non-Osca
 
 The top 10 multigenres were grouped together into a dataframe by the mean of 'profit', 'revenue', 'budget', 'imdbRating', and 'popularity'.
 
+Here are some analysis tables:
+
 The three most profitable multigenres on average: 
 - ['Adventure', 'Family', 'Sci-Fi']	= $782,410,600
 - ['Fantasy'] =	$737,701,800
@@ -77,6 +79,7 @@ The three multigenres with the most oscar wins:
 - ['Action', 'Adventure', 'Sci-Fi']	= 16 oscar wins
 
 Main Findings: 
+- If the objective for a successful movie is to win the oscars than picking a genre that is more serious such as Drama or Adventure could be beneficial.
 - 
 
 ### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
