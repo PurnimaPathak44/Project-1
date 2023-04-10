@@ -36,6 +36,9 @@ Used Movie IDs in Kaggle Data to create requests from the OMDb API.
 Supplemented Kaggle Data with:
 "Writer, Awards, Ratings, Metascore, Imdb Rating, and Imdb Votes" for each movie
 
+After deleting unwanted columns and merging the API data with the main Kaggle data, we had a dataset containg 1178 rows and 26 columns.
+
 ## Analysis and Findings
+
 
 ## Conclusion
