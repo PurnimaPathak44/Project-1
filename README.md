@@ -39,7 +39,7 @@ Supplemented Kaggle Data with:
 After deleting unwanted columns and merging the API data with the main Kaggle data, we had a dataset containg 1178 rows and 26 columns.
 
 ## Analysis and Findings
-### "Budget vs Box Office Revenue with IMDb Rating"
+### 1. "Budget vs Box Office Revenue with IMDb Rating"
 Utilizing the budget and box office revenue variables, we created a scatter plot with a heat map for IMDb Ratings. The heat map demonstrates that higher IMDb Rating films on average had a higher box office revenue. 
 
 The linear regressions r-squared value was around 0.49 so the strength of the model can explain around 49% of the variance in the outcome variable which is relatively high. 
@@ -51,7 +51,7 @@ Main Findings:
 - The outcome variable of box office revenue can be explained with a strength of around 49% by the budget. This shows that the more money that is put into the production of a movie, the higher revenue is generated. 
 - The horror movie genre is the best movie to make if looking to get the highest ROI percentage or if you have a low budget
 
-### "Top 10 Multigenres for Oscar movies vs. Non-Oscar movies"
+### 2. "Top 10 Multigenres for Oscar movies vs. Non-Oscar movies"
 For our next analysis, we decided to analyze which movie genres were most commonly found in the top 10 Oscar Award movies vs Non-Oscar movies. Our objective was to analyze the most frequent genre combinations of the movies. We decided to utilize the multigenre data already in the dataset instead of splitting them all into singular genre values since more broad genres such as "Drama" would be overly represented.
 
 Oscar movies most frequent multigenre was "Animation, Adventure, Comedy" movies such as Toy Story, Up, and Monsters Inc.
@@ -82,7 +82,7 @@ Main Findings:
 - Animation, Adventure, Comedy movies are the most frequent multigenre for Oscar awards and second most common multigenre for Non-Oscar movies. The budget for this multigenre is rather high (think of production companies such as "Pixar" "Walt Disney") but if the funds are there it may be worth it to try and win an Oscar. A good second option would be the Drama and Romance multigenre as it had the highest amount of oscar wins with 24 oscar wins.
 - If the success goal is to make a highly rated movie, then the multigenre containing Drama and War may be a good option as they have the highest IMDb Ratings on average.
 
-### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
+### 3. "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 The next analysis focuses on finding the differences between the four movie film rating (G, PG, PG-13, and R).
 
 Below are the various mean tables for the four film ratings.
@@ -92,7 +92,7 @@ After splitting the data into dataframse containg the respective film ratings, w
 - Contrastingly, R-Rated movies had the second highest review ratings and award wins/nominations. However had the lowest revenue and budget.
 - PG and PG-13 movies were fairly similar in all metrics with PG-13 having sightly higher popularity and award wins/nomination values.
 
-### "Top 10 Directors vs Revenue and Runtime Regression"
+### 4. "Top 10 Directors vs Revenue and Runtime Regression"
 
 ## Conclusion
 After our analysis, we have discovered some significant patterns and variables that lead to a succesful movie. 
