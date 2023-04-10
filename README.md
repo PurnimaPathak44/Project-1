@@ -85,7 +85,7 @@ The three multigenres with the most Oscar wins:
 - ['Action', 'Adventure', 'Sci-Fi']	= 16 Oscar wins
 
 Main Findings: 
-- If the objective for a successful movie is to win the Oscars than picking a genre that is more serious such as Drama or Adventure could be beneficial. Comedy movies are less common for Oscar nominated movies.
+- If the objective for a successful movie is to win the Oscars then picking a genre that is more serious such as Drama or Adventure could be beneficial. Comedy movies are less likely to be nominated for Oscar awards.
 - Animation, Adventure, Comedy movies are the most frequent multigenre for Oscar awards and second most common multigenre for Non-Oscar movies. The budget for this multigenre is rather high (think of production companies such as "Pixar" "Walt Disney") but if the funds are there it may be worth it to try and win an Oscar. A good second option would be the Drama and Romance multigenre as it had the highest amount of Oscar wins with 24 Oscar wins.
 - If the success goal is to make a highly rated movie, then the multigenre containing Drama and War may be a good option as they have the highest IMDb Ratings on average.
 
@@ -122,6 +122,10 @@ Similar to the average profits, PG and R movies were the most popular until arou
 ## Conclusion
 After our analysis, we have discovered some significant patterns and variables that lead to a successful movie. 
 
+# Success Metric - Box office revenue and ROI
 Based Budget vs Box Office Revenue analysis scatter plots we can conclude that if you want a guaranteed higher Box Office Revenue, you may have to have use an increased budget. The r-squared-value of budget vs box office revenue was 0.49 which tells us that having an increased movie budget has a relationship with higher revenue. Similarly, the scatter plot heatmap verifies that the movie has to be well made to get higher review ratings which is strengthened by having an increased budget. 
 
 We also can conclude if you have a low budget then the best option for financial box office success would be to make a horror genre movie as they require a small budget and have a high ROI.
+
+# Success Metric - Oscar award wins and nominations
+
