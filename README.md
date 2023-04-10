@@ -58,6 +58,10 @@ Oscar movies most frequent multigenre was "Animation, Adventure, Comedy" movies 
 
 Non-Oscar movies most frequent multigenre was  "Comedy, Romance" movies such as The 40-Year-Old Virgin, 27 Dresses, and The Holiday.
 
+Two bar graphs were created for the Top 10 Oscar Movies Multigenres and Top 10 Non-Oscar Movies Multigenres. The signle genres were color coded in order to get a better representation of which genre was appearing more frequently than others.
+
+The Oscar movies appeared to have more Drama and Adventure movies while Non-Oscar movies had much more Comedy and Thriller movies. This could be explained by the Oscar movies on average being more serious and artistic style movies that are favored by movie critcs while Non-Oscar movies can have more comedy and thrilling fun movies that an average audience would enjoy.
+
 ### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 
 ### "Top 10 Directors vs Revenue and Runtime Regression"
