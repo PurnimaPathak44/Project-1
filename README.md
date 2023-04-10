@@ -138,8 +138,11 @@ The average budget was similar for all ratings until around 1996 where G, PG, an
 Similar to the average profits, PG and R movies were the most popular until around 1982 when G movies started to increase. With the introduction of PG-13 movies in 1984, we see the decrease in PG and R movies. This could be due to PG and R movies becoming less saturated since films can now be split into a new in-between rating. G rated movies had a "golden popularity" era around the early 1990's. After that, all four film ratings started to even out and generate similar popularity ratings. More recently, PG-13 and R rated movies seemed to have had an increase in popularity starting somewhere around 2013.
 
 ### 5. "Top 10 Directors vs Revenue and Runtime Regression"
+We ended with an anlaysis of the top 10 directors and their average box office revenues.
 
 ![Top 10 Directors vs Box Office Revenue](https://user-images.githubusercontent.com/124934770/230956720-e1d6d778-0b28-48f6-9c8f-8833ba80fa77.png)
+
+We also wanted to see if runtime (movie length in minutes) had any correlation with box office revenue. However we found that the r-squared value was very low, which tells us that the length of a movie doesn't have much of an affect on the box office revenue a movie earns.
 
 ![Runtime Regression](https://user-images.githubusercontent.com/124934770/230956743-b17b5113-62a6-4e6f-8dfc-813274c54a45.png)
 
