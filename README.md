@@ -94,7 +94,9 @@ Main Findings:
 - Animation, Adventure, Comedy movies are the most frequent multigenre for Oscar awards and second most common multigenre for Non-Oscar movies. The budget for this multigenre is rather high (think of production companies such as "Pixar" "Walt Disney") but if the funds are there it may be worth it to try and win an Oscar. A good second option would be the Drama and Romance multigenre as it had the highest amount of Oscar wins with 24 Oscar wins.
 - If the success goal is to make a highly rated movie, then the multigenre containing Drama and War may be a good option as they have the highest IMDb Ratings on average.
 
-### 3. "Movie Film Ratings (G, PG, PG-13, R) Analysis"
+### 3. "Award Wins vs Oscar Wins vs Box Office Revenue" and "Keywords percentage in Oscar Winners vs Non-Oscar Winners"
+
+### 4. "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 The next analysis focuses on finding the differences between the four movie film ratings (G, PG, PG-13, and R).
 
 After splitting the data into dataframes containing the respective film ratings, we found that:
@@ -118,7 +120,7 @@ The average budget was similar for all ratings until around 1996 where G, PG, an
 
 Similar to the average profits, PG and R movies were the most popular until around 1982 when G movies started to increase. With the introduction of PG-13 movies in 1984, we see the decrease in PG and R movies. This could be due to PG and R movies becoming less saturated since films can now be split into a new in-between rating. G rated movies had a "golden popularity" era around the early 1990's. After that, all four film ratings started to even out and generate similar popularity ratings. More recently, PG-13 and R rated movies seemed to have had an increase in popularity starting somewhere around 2013.
 
-### 4. "Top 10 Directors vs Revenue and Runtime Regression"
+### 5. "Top 10 Directors vs Revenue and Runtime Regression"
 
 ![Top 10 Directors vs Box Office Revenue](https://user-images.githubusercontent.com/124934770/230956720-e1d6d778-0b28-48f6-9c8f-8833ba80fa77.png)
 
