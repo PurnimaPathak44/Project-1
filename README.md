@@ -65,9 +65,9 @@ The Oscar movies appeared to have more Drama and Adventure movies while Non-Osca
 THe top 10 multigenres were grouped together into a dataframe by the mean of 'profit', 'revenue', 'budget', 'imdbRating', and 'popularity'.
 
 The three most profitable multigenres on average: 
-- ['Adventure', ' Family', ' Sci-Fi']	$782,410,600
-- ['Fantasy']	$737,701,800
-- ['Adventure', ' Fantasy'] $705,119,800
+- 'Adventure', 'Family', 'Sci-Fi'	$782,410,600
+- 'Fantasy'	$737,701,800
+- 'Adventure', ' Fantasy' $705,119,800
 
 ### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 
