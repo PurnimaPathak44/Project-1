@@ -119,7 +119,7 @@ The next analysis focuses on finding the differences between the four movie film
 After splitting the data into dataframes containing the respective film ratings, we found that:
 - G-Rated movies won out in every category. It had the highest review ratings, budget, popularity, revenue, profit, and award wins/nominations.
 - Contrastingly, R-Rated movies had the second highest review ratings and award wins/nominations. However had the lowest revenue and budget.
-- PG and PG-13 movies were fairly similar in all metrics with PG-13 having sightly higher popularity and award wins/nomination values.
+- PG and PG-13 movies were fairly similar in all metrics with PG-13 having sightly higher popularity and award wins/nomination values but lower review ratings.
 
 Line graphs were created to demonstrate how Film Rating movies changed throughout the year 1961-2015.
 
