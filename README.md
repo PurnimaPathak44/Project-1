@@ -149,6 +149,18 @@ We also wanted to see if runtime (movie length in minutes) had any correlation w
 
 ![Runtime Regression](https://user-images.githubusercontent.com/124934770/230956743-b17b5113-62a6-4e6f-8dfc-813274c54a45.png)
 
+# Discussion
+The Group-5 Agency perfromed analysis on the success metrics in order to answer:
+
+- "What variables influence Box Office Revenue success, ROI, and profitability?"
+- "What variables influence Award Wins/Nominations (Oscars)?"
+- "What variables influence Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)?"
+- "What variables influence Popularity?"
+
+Our analysis has given us new insight on what variables may affect the success of a movie given the desired success metric.
+
+Some limitations that should be identified in the analysis is that perhaps more than 1178 rows of data may be beneficial in getting an even more accurate calculation. For example, when calculating film rating (G, PG, PG-13, and R) there were signficiantly less G rated movies than R.  This could be due to the fact the R movies are cheaper and arguably easier to make, having more data to verify if this is the case would be beneficial.
+
 # Conclusion
 After our analysis, we have discovered some significant patterns and variables that lead to a successful movie. 
 
