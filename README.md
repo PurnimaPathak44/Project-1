@@ -95,8 +95,11 @@ Main Findings:
 - If the success goal is to make a highly rated movie, then the multigenre containing Drama and War may be a good option as they have the highest IMDb Ratings on average.
 
 ### 3. "Award Wins vs Oscar Wins vs Box Office Revenue" and "Keywords percentage in Oscar Winners vs Non-Oscar Winners"
+Next we wanted to analyze the Award wins vs Oscar wins vs Box Office Revenue. Award wins were movie awards other than the Oscars such as the Sundance film festival awards for example. We created a scatter plot with Award Wins as the x value, Oscar wins as the y value, and Box Office Revenue as the value indicator for the size of the marker. The larger the marker, the higher the box office revenue.
 
 ![Award win vs oscar wins vs Box office revenue regression](https://user-images.githubusercontent.com/124934770/230975935-edeb2765-8b10-459d-a354-30d0b5e8741c.png)
+
+We noticed that there was a large concentrated cluster around 0-50 award wins and 0-4 Oscar wins. This makes sense as winning hundreds of awards or more than 1 Oscar is a difficult feat. The regression performed shows that there is an r-squared value of 0.55 which demonstrates a moderately high correlation and 55% variance explained by the model. Movie that win more awards will usually win more Oscars as well indicated by the quality of the movie. 
 
 ![Keywords percentages in Oscar winners vs Non-Oscar winners](https://user-images.githubusercontent.com/124934770/230976013-f3f9b6ed-6614-46cd-bc72-c1ad631eb726.png)
 
