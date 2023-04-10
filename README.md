@@ -92,7 +92,7 @@ After splitting the data into dataframes containing the respective film ratings,
 - Contrastingly, R-Rated movies had the second highest review ratings and award wins/nominations. However had the lowest revenue and budget.
 - PG and PG-13 movies were fairly similar in all metrics with PG-13 having sightly higher popularity and award wins/nomination values.
 
-
+Line graphs were created to demonstrate how Film Rating movies changed throught the year 1961-2015.
 
 ### 4. "Top 10 Directors vs Revenue and Runtime Regression"
 
