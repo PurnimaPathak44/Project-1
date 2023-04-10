@@ -67,7 +67,6 @@ Two bar graphs were created for the Top 10 Oscar Movies Multigenres and Top 10 N
 ![Oscar Movies Top 10 Multigenres](https://user-images.githubusercontent.com/124934770/230953592-72e32798-b56d-4f3e-97fd-b534ab2e388e.png)
 ![Non-Oscar Movies Top 10 Multigenres](https://user-images.githubusercontent.com/124934770/230953610-e9c31c4a-e248-4975-b86b-c6be3f7e498c.png)
 
-
 The Oscar movies appeared to have more Drama and Adventure movies while Non-Oscar movies had much more Comedy and Thriller movies. This could be explained by the Oscar movies on average being more serious and artistic style movies that are favored by movie critcs while Non-Oscar movies can have more comedy and thrilling fun movies that an average audience would enjoy.
 
 The top 10 multigenres were grouped together into a dataframe by the mean of 'profit', 'revenue', 'budget', 'imdbRating', and 'popularity'.
@@ -104,10 +103,15 @@ Line graphs were created to demonstrate how Film Rating movies changed throught 
 
 PG-13 movies were not introduced until July 1, 1984 which is why it shows up around that timeframe on the line graphs.
 
+![Film Ratings Average Profit per Year](https://user-images.githubusercontent.com/124934770/230953835-fa4ad9d6-84bc-4edc-96ba-34afab0f5c54.png)
 
 PG movies were the most profitable until around 1982 where G movies started to increase. The introduction of PG-13 movies in 1984 may have influence PG movie profits however it seems like PG profits were starting to decrease earlier in 1982. This could be due to the rise in popularity of G movies around that time. PG and PG-13 movies had some good year in the 1990's with high profits. R rated movies always had the least amount of average profit throughout the entire range. This could also be due to the fact that R rated movies have much lower budgets on average.
 
+![Film Ratings Average Budget per Year](https://user-images.githubusercontent.com/124934770/230953867-c7b0437e-30d5-4d94-887b-4b0be6756277.png)
+
 The average budget was similar for all ratings until around 1996 where G, PG, and PG-13 movie budgets increased. On average, the budget is highest for G-Rated movies and lowest for R-Rated movies.
+
+![Film Ratings Popularity per Year](https://user-images.githubusercontent.com/124934770/230953883-06a6983e-d334-412d-9ef4-aebdbb9b86b7.png)
 
 Similar to the average profits, PG and R movies were the most popular until around 1982where G movies started to increase. With the introduction of PG-13 movies in 1984, we see the decrease in PG and R movies. This could be due to PG and R movies becoming less saturated since films can now be split into a new inbetween rating. G rated movies had a "golden popularity" era around the early 1990's but then all film ratings started even out and similar popularity after. More recently, PG-13 and R rated movies seemed to have had an increase in popularity starting somewhere around 2013.
 
