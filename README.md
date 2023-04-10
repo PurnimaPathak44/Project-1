@@ -96,6 +96,11 @@ Main Findings:
 
 ### 3. "Award Wins vs Oscar Wins vs Box Office Revenue" and "Keywords percentage in Oscar Winners vs Non-Oscar Winners"
 
+![Award win vs oscar wins vs Box office revenue regression](https://user-images.githubusercontent.com/124934770/230975935-edeb2765-8b10-459d-a354-30d0b5e8741c.png)
+
+![Keywords percentages in Oscar winners vs Non-Oscar winners](https://user-images.githubusercontent.com/124934770/230976013-f3f9b6ed-6614-46cd-bc72-c1ad631eb726.png)
+
+
 ### 4. "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 The next analysis focuses on finding the differences between the four movie film ratings (G, PG, PG-13, and R).
 
