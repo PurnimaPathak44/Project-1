@@ -64,6 +64,10 @@ Non-Oscar movies most frequent multigenre was  "Comedy, Romance" movies such as 
 
 Two bar graphs were created for the Top 10 Oscar Movies Multigenres and Top 10 Non-Oscar Movies Multigenres. The single genres were color coded in order to get a better representation of which genre was appearing more frequently than others.
 
+![Oscar Movies Top 10 Multigenres](https://user-images.githubusercontent.com/124934770/230953592-72e32798-b56d-4f3e-97fd-b534ab2e388e.png)
+![Non-Oscar Movies Top 10 Multigenres](https://user-images.githubusercontent.com/124934770/230953610-e9c31c4a-e248-4975-b86b-c6be3f7e498c.png)
+
+
 The Oscar movies appeared to have more Drama and Adventure movies while Non-Oscar movies had much more Comedy and Thriller movies. This could be explained by the Oscar movies on average being more serious and artistic style movies that are favored by movie critcs while Non-Oscar movies can have more comedy and thrilling fun movies that an average audience would enjoy.
 
 The top 10 multigenres were grouped together into a dataframe by the mean of 'profit', 'revenue', 'budget', 'imdbRating', and 'popularity'.
