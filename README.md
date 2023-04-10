@@ -1,4 +1,4 @@
-# Project-1 Succesful Movies Analysis
+# Project-1: Succesful Movies Analysis
 
 ## Background
 
