@@ -9,6 +9,4 @@ In order to do that, they came across Group-5 Data Analysis Company and provided
 
 ## Findings
 
-## Analysis
-
-## Conclusion and Recommendations
+## Analysis and Conclusion
