@@ -122,22 +122,22 @@ Similar to the average profits, PG and R movies were the most popular until arou
 ## Conclusion
 After our analysis, we have discovered some significant patterns and variables that lead to a successful movie. 
 
-# Success Metric - Box office revenue and ROI
+### Success Metric - Box office revenue and ROI
 Based Budget vs Box Office Revenue analysis scatter plots we can conclude that if you want a guaranteed higher Box Office Revenue, you may have to have use an increased budget. The r-squared-value of budget vs box office revenue was 0.49 which tells us that having an increased movie budget has a relationship with higher revenue. 
 
 We also can conclude if you have a low budget then the best option for financial box office success would be to make a horror genre movie as they require a small budget and have a high ROI.
 
 If you are focused on profitability, than making a movie with the a multigenre combination of ['Adventure, 'Family', Fantasy] would be the most profitable. Historically, G-Rated movies have done the best for profitability, however if we look at the most recent Year's profitiability on our "Film Rating Average Profit per Year" line graph we can see that all four film ratings are around the same profitability metric. However we still would conclude and reccomend G-Rated movies as the most profitable based on recent historic trends.
 
-# Success Metric - Oscar award wins and nominations
+### Success Metric - Oscar award wins and nominations
 If the objective for a successful movie is to win the Oscars then picking a genre that is more serious such as Drama or Adventure could be beneficial. Comedy movies are less likely to be nominated for Oscar awards.
 
 Interestingly, [Animation, Adventure, Comedy] movies are the most frequent multigenre for Oscar awards and the second most common multigenre for Non-Oscar movies. The budget for this multigenre is rather high (think of production companies such as "Pixar" "Walt Disney") but if the funds are there it may be worth it to try and win an Oscar.
 
 A good second option would be the [Drama, Romance] multigenre as it had the highest amount of Oscar wins with 24 Oscar wins.
 
-# Success Metric - Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)
+### Success Metric - Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)
 The scatter plot heatmap from the Budget vs Box Office with IMDb Raiting verifies that a movie has to be well made to get higher review ratings. This can be strengthened by having an increased budget. 
 
-# Success Metric - Popularity
+### Success Metric - Popularity
 G-Rated movies are the most popular on average however our line graph demonstrates that PG-13 movies have been the most popular as of late.  If a company is looking to create a succesful move base on popularity we would reccomend creating a PG-13 movie with a multigenre that may include [Adventure, Action, Sci-Fi, and Drama].
