@@ -55,6 +55,7 @@ Main Findings:
 For our next analysis, we decided to analyze which movie genres were most commonly found in the top 10 Oscar Award movies vs Non-Oscar movies. Our objective was to analyze the most frequent genre combinations of the movies. We decided to utilize the multigenre data already in the dataset instead of splitting them into singular genre values since more broad genres such as "Drama" would be overly represented.
 
 Oscar movies most frequent multigenre was "Animation, Adventure, Comedy" movies such as Toy Story, Up, and Monsters Inc.
+
 Non-Oscar movies most frequent multigenre was  "Comedy, Romance" movies such as The 40-Year-Old Virgin, 27 Dresses, and The Holiday.
 
 ### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
