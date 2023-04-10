@@ -111,11 +111,15 @@ PG movies were the most profitable until around 1982 when G movies started to in
 
 The average budget was similar for all ratings until around 1996 where G, PG, and PG-13 movie budgets increased. On average, the budget is highest for G-Rated movies and lowest for R-Rated movies.
 
-![Film Ratings Popularity per Year](https://user-images.githubusercontent.com/124934770/230953883-06a6983e-d334-412d-9ef4-aebdbb9b86b7.png)
+![Film Ratings Popularity per Year](https://user-images.githubusercontent.com/124934770/230956687-ac316810-13dd-4631-b407-b8eb1608a975.png)
 
 Similar to the average profits, PG and R movies were the most popular until around 1982 when G movies started to increase. With the introduction of PG-13 movies in 1984, we see the decrease in PG and R movies. This could be due to PG and R movies becoming less saturated since films can now be split into a new in-between rating. G rated movies had a "golden popularity" era around the early 1990's. After that, all four film ratings started to even out and generate similar popularity ratings. More recently, PG-13 and R rated movies seemed to have had an increase in popularity starting somewhere around 2013.
 
 ### 4. "Top 10 Directors vs Revenue and Runtime Regression"
+
+![Top 10 Directors vs Box Office Revenue](https://user-images.githubusercontent.com/124934770/230956720-e1d6d778-0b28-48f6-9c8f-8833ba80fa77.png)
+
+![Runtime Regression](https://user-images.githubusercontent.com/124934770/230956743-b17b5113-62a6-4e6f-8dfc-813274c54a45.png)
 
 ## Conclusion
 After our analysis, we have discovered some significant patterns and variables that lead to a successful movie. 
