@@ -78,8 +78,9 @@ The three multigenres with the most oscar wins:
 - ['Action', 'Adventure', 'Sci-Fi']	= 16 oscar wins
 
 Main Findings: 
-- If the objective for a successful movie is to win the oscars than picking a genre that is more serious such as Drama or Adventure could be beneficial.
-- 
+- If the objective for a successful movie is to win the oscars than picking a genre that is more serious such as Drama or Adventure could be beneficial. Comedy movies are less common for Oscar nominated movies.
+- Animation, Adventure, Comedy movies are the most frequent multigenre for Oscar awards and second most common multigenre for Non-Oscar movies. The budget for this multigenre is rather high (think of production companies such as "Pixar" "Walt Disney") but if the funds are there it may be worth it to try and win an Oscar. A good second option would be the Drama and Romance multigenre as it had the highest amount of oscar wins with 24 oscar wins.
+- If the success goal is to make a highly rated movie, then the multigenre containing Drama and War may be a good option as they have the highest IMDb Ratings on average.
 
 ### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 
