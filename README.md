@@ -94,6 +94,11 @@ After splitting the data into dataframes containing the respective film ratings,
 
 Line graphs were created to demonstrate how Film Rating movies changed throught the year 1961-2015.
 
+PG-13 movies were not introudce until July 1, 1984 which is why it shows up around that timeframe on the line graphs.
+
+The average budget was similar for all ratings until around 1996 where G, PG, and PG-13 movie budgets increased. On average, the budget is highest for G-Rated movies and lowest for R-Rated movies.
+
+
 ### 4. "Top 10 Directors vs Revenue and Runtime Regression"
 
 ## Conclusion
