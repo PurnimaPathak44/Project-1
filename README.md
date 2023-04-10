@@ -7,7 +7,7 @@ A new film company called "Rutgers" wants to produce a successful movie. In orde
 ## Defining a Successful Movie
 The first question The Group-5 Agency wanted to answer was "What is a successful movie?" 
 
-Financial success? Critical acclaim? Public popularity? 
+Financial success? Critical acclaim? Public opinion? 
 
 Because success can be defined in several different ways depending on what a company desires, The Group-5 Agency decided to create a list of success metrics.
 
