@@ -46,3 +46,5 @@ After deleting unwanted columns and merging the API data with the main Kaggle da
 
 ## Conclusion
 After our analysis, we have discovered some significant patterns and variables that lead to a succesful movie. 
+
+From our first analysis on Budget vs Box Office Revenue with IMDb Rating, we found that the linear regressions r-value was around 0.49 so around half of the variance in the outcome variable can be explained by the model
