@@ -85,8 +85,11 @@ Main Findings:
 ### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 The next analysis focuses on finding the differences between the four movie film rating (G, PG, PG-13, and R).
 
+Below are the various mean tables for the four film ratings.
+
 After splitting the data into dataframse containg the respective film ratings, we found that:
 - G-Rated movies won out on every category. It had the highest review ratings, budget, popularity, revenue, profit, oscar wins, and oscar nominations.
+- 
 
 ### "Top 10 Directors vs Revenue and Runtime Regression"
 
