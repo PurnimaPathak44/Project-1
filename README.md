@@ -47,7 +47,9 @@ The linear regressions r-squared value was around 0.49 so the strength of the mo
 The ROI was also calculated and added to the dataframe. We printed the top 10 highest-grossing movies with ROI and IMDb Rating and found that movies in the Horror genre had the highest ROI. This can be explained by their extremely low budgets compared to the revenue they generated. For example, "Paranormal Activity" had the highest ROI with a budget of $15,0000 and revenue of $193,355,800 giving it an incredbily high ROI percentage of 1,288,939%.
 
 Main Findings: 
-- The more money that is put into the production of a movie, the higher revenue is generated. 
+- High rated films (Review Ratings) generate more box office revenue on average
+- The outcome variable of box office revenue can be explained with a strength of around 49% by the budget. This shows that the more money that is put into the production of a movie, the higher revenue is generated. 
+- The horror movie genre is the best movie to make if looking to get the highest ROI percentage or if you have a low budget
 
 ### "Top 10 Multigenres for Oscar movies vs. Non-Oscar movies"
 
