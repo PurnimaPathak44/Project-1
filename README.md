@@ -18,6 +18,8 @@ The Group-5 Agency performed analysis on all five of these success metrics.
 This provided Rutgers with multiple options for how they will produce their “successful movie”.
 
 ## Data Collection and Cleanup
+Utilizing Kaggle datasets and The Open Movie Database API (OMDb API) the main dataset was created.
+
 
 ## Findings
 
