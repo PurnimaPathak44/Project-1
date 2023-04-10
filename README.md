@@ -52,13 +52,13 @@ Main Findings:
 - The horror movie genre is the best movie to make if looking to get the highest ROI percentage or if you have a low budget
 
 ### "Top 10 Multigenres for Oscar movies vs. Non-Oscar movies"
-For our next analysis, we decided to analyze which movie genres were most commonly found in the top 10 Oscar Award movies vs Non-Oscar movies. Our objective was to analyze the most frequent genre combinations of the movies. We decided to utilize the multigenre data already in the dataset instead of splitting them into singular genre values since more broad genres such as "Drama" would be overly represented.
+For our next analysis, we decided to analyze which movie genres were most commonly found in the top 10 Oscar Award movies vs Non-Oscar movies. Our objective was to analyze the most frequent genre combinations of the movies. We decided to utilize the multigenre data already in the dataset instead of splitting them all into singular genre values since more broad genres such as "Drama" would be overly represented.
 
 Oscar movies most frequent multigenre was "Animation, Adventure, Comedy" movies such as Toy Story, Up, and Monsters Inc.
 
 Non-Oscar movies most frequent multigenre was  "Comedy, Romance" movies such as The 40-Year-Old Virgin, 27 Dresses, and The Holiday.
 
-Two bar graphs were created for the Top 10 Oscar Movies Multigenres and Top 10 Non-Oscar Movies Multigenres. The signle genres were color coded in order to get a better representation of which genre was appearing more frequently than others.
+Two bar graphs were created for the Top 10 Oscar Movies Multigenres and Top 10 Non-Oscar Movies Multigenres. The single genres were color coded in order to get a better representation of which genre was appearing more frequently than others.
 
 The Oscar movies appeared to have more Drama and Adventure movies while Non-Oscar movies had much more Comedy and Thriller movies. This could be explained by the Oscar movies on average being more serious and artistic style movies that are favored by movie critcs while Non-Oscar movies can have more comedy and thrilling fun movies that an average audience would enjoy.
 
@@ -76,6 +76,8 @@ The three multigenres with the most oscar wins:
 - ['Action', 'Adventure', 'Drama'] = 23	oscar wins
 - ['Action', 'Adventure', 'Sci-Fi']	= 16 oscar wins
 
+Main Findings: 
+- 
 
 ### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 
