@@ -98,6 +98,7 @@ PG-13 movies were not introudce until July 1, 1984 which is why it shows up arou
 
 The average budget was similar for all ratings until around 1996 where G, PG, and PG-13 movie budgets increased. On average, the budget is highest for G-Rated movies and lowest for R-Rated movies.
 
+PG and R movies were the most popular until around 1985 where G movies started to increase. With the introduction of PG-13 movies in 1984, we see the decrease in PG and R movies. This could be due to PG and R movies becoming less saturated since films can now be split into a new inbetween rating. G rated movies had a "golden popularity" era around the early 1990's but then all film ratings started even out and similar popularity after. More recently, PG-13 and R rated movies seemed to have had an increase in popularity starting somewhere around 2013.
 
 ### 4. "Top 10 Directors vs Revenue and Runtime Regression"
 
