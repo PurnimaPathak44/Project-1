@@ -26,8 +26,8 @@ Utilizing Kaggle datasets and The Open Movie Database API (OMDb API) the main da
 
 ### Kaggle: 
 The main dataset that we used via Kaggle was 1287 movie data from TMDB(The Movie Database) from the year 1961 - 2015.
-Columns included: 
 
+Columns included: 
 "Movie ID, Budget, Revenue, Profit, Title, Cast, Directors, Popularity, Keywords, Runtime, Genres, Production Company, and Release Date."
 
 ### OMDb API: 
