@@ -94,11 +94,14 @@ After splitting the data into dataframes containing the respective film ratings,
 
 Line graphs were created to demonstrate how Film Rating movies changed throught the year 1961-2015.
 
-PG-13 movies were not introudce until July 1, 1984 which is why it shows up around that timeframe on the line graphs.
+PG-13 movies were not introduced until July 1, 1984 which is why it shows up around that timeframe on the line graphs.
+
+
+PG movies were the most profitable until around 1982 where G movies started to increase. The introduction of PG-13 movies in 1984 may have influence PG movie profits however it seems like PG profits were starting to decrease earlier in 1982. This could be due to the rise in popularity of G movies around that time. PG and PG-13 movies had some good year in the 1990's with high profits. R rated movies always had the least amount of average profit throughout the entire range. This could also be due to the fact that R rated movies have much lower budgets on average.
 
 The average budget was similar for all ratings until around 1996 where G, PG, and PG-13 movie budgets increased. On average, the budget is highest for G-Rated movies and lowest for R-Rated movies.
 
-PG and R movies were the most popular until around 1985 where G movies started to increase. With the introduction of PG-13 movies in 1984, we see the decrease in PG and R movies. This could be due to PG and R movies becoming less saturated since films can now be split into a new inbetween rating. G rated movies had a "golden popularity" era around the early 1990's but then all film ratings started even out and similar popularity after. More recently, PG-13 and R rated movies seemed to have had an increase in popularity starting somewhere around 2013.
+Similar to the average profits, PG and R movies were the most popular until around 1982where G movies started to increase. With the introduction of PG-13 movies in 1984, we see the decrease in PG and R movies. This could be due to PG and R movies becoming less saturated since films can now be split into a new inbetween rating. G rated movies had a "golden popularity" era around the early 1990's but then all film ratings started even out and similar popularity after. More recently, PG-13 and R rated movies seemed to have had an increase in popularity starting somewhere around 2013.
 
 ### 4. "Top 10 Directors vs Revenue and Runtime Regression"
 
