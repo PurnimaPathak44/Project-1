@@ -140,10 +140,12 @@ Similar to the average profits, PG and R movies were the most popular until arou
 ### 5. "Top 10 Directors vs Revenue and Runtime Regression"
 We ended with an anlaysis of the top 10 directors and their average box office revenues.
 
-![Top 10 Directors vs Box Office Revenue](https://user-images.githubusercontent.com/124934770/230956720-e1d6d778-0b28-48f6-9c8f-8833ba80fa77.png)
-
+![Top 10 Directors vs Box Office Revenue](https://user-images.githubusercontent.com/124934770/230995835-73ea6349-d056-4cba-9fb8-723cf22e4e6e.png)
 
 It is seen that James Cameron has the topmost average revenue generated with his 3 movies in the dataset, followed by Colin Trevorrow who has only one movie and is the second top Director. This is also one of the limitations of this data that the analysis is not fair as we are not comparing the equal amount of movies per director so when we are generating the average revenue, we are taking 3 movies from James whereas we are only taking one movie from Colin.
+
+![Top 10 Directors 5 or more](https://user-images.githubusercontent.com/124934770/230995864-8005a570-bbb6-4694-bbee-dbc5c1983228.png)
+
 
 We also wanted to see if runtime (movie length in minutes) had any correlation with box office revenue. However we found that the r-squared value was very low, which tells us that the length of a movie doesn't have much of an affect on the box office revenue a movie earns. 
 
