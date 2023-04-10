@@ -13,7 +13,8 @@ The first thing The Group-5 Agency decided to do was define what a successful mo
 - Award Wins/Nominations
 - Popularity
 
-The Group-5 Agency performed analysis on all five of these success metrics. This gives Rutgers multiple options when deciding how they would like to create their own “successful movie”.
+The Group-5 Agency performed analysis on all five of these success metrics. 
+This provides Rutgers with multiple options for how they will produce their own “successful movie”.
 
 ## Data Collection and Cleanup
 
