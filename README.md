@@ -142,6 +142,9 @@ We ended with an anlaysis of the top 10 directors and their average box office r
 
 ![Top 10 Directors vs Box Office Revenue](https://user-images.githubusercontent.com/124934770/230956720-e1d6d778-0b28-48f6-9c8f-8833ba80fa77.png)
 
+
+It is seen that James Cameron has the topmost average revenue generated with his 3 movies in the dataset, followed by Colin Trevorrow who has only one movie and is the second top Director. This is also one of the limitations of this data that the analysis is not fair as we are not comparing the equal amount of movies per director so when we are generating the average revenue, we are taking 3 movies from James whereas we are only taking one movies from Colin.
+
 We also wanted to see if runtime (movie length in minutes) had any correlation with box office revenue. However we found that the r-squared value was very low, which tells us that the length of a movie doesn't have much of an affect on the box office revenue a movie earns.
 
 ![Runtime Regression](https://user-images.githubusercontent.com/124934770/230956743-b17b5113-62a6-4e6f-8dfc-813274c54a45.png)
