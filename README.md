@@ -42,9 +42,11 @@ After deleting unwanted columns and merging the API data with the main Kaggle da
 ### 1. "Budget vs Box Office Revenue with IMDb Rating"
 Utilizing the budget and box office revenue variables, we created a scatter plot with a heat map for IMDb Ratings. The heat map demonstrates that higher IMDb Rating films on average had a higher box office revenue. 
 
- ![alt text]([Project-1/Project-1 Graphs/Budget vs Box Office IMDB heatmap.png](https://github.com/PurnimaPathak44/Project-1/blob/main/Project-1%20Graphs/Budget%20vs%20Box%20Office%20IMDB%20heatmap.png?raw=true))
+![Budget vs Box Office IMDB heatmap](https://user-images.githubusercontent.com/124934770/230952903-e18e9d96-b5aa-4a84-8df0-07cf0e1f5b1f.png)
 
 The linear regressions r-squared value was around 0.49 so the strength of the model can explain around 49% of the variance in the outcome variable which is relatively high. 
+
+![Budget vs Box Office regression](https://user-images.githubusercontent.com/124934770/230952967-ad323e27-2e09-448e-b17a-4ebfd57cfa86.png)
 
 The ROI was also calculated and added to the dataframe. We printed the top 10 highest-grossing movies with ROI and IMDb Rating and found that movies in the Horror genre had the highest ROI. This can be explained by their extremely low budgets compared to the revenue they generated. For example, "Paranormal Activity" had the highest ROI with a budget of $15,0000 and revenue of $193,355,800 giving it an incredbily high ROI percentage of 1,288,939%.
 
