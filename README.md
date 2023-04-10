@@ -1,5 +1,5 @@
 # Project-1: Succesful Movies Analysis
-
+    
 ## Background
 
 A new film company called "Rutgers" wants to produce a successful movie. In order to do that, they came across The Group-5 Data Analysis Company and provided them with a list of datasets that contains Movies information from 1962 to 2015. Based on these datasets, The Group-5 Agency’s task is to aggregate the data and find the trends that tend to show what factors are and are not responsible for a successful movie and present it to Rutgers to make strategic decisions regarding their production of movies.
@@ -41,6 +41,8 @@ After deleting unwanted columns and merging the API data with the main Kaggle da
 ## Analysis and Findings
 ### 1. "Budget vs Box Office Revenue with IMDb Rating"
 Utilizing the budget and box office revenue variables, we created a scatter plot with a heat map for IMDb Ratings. The heat map demonstrates that higher IMDb Rating films on average had a higher box office revenue. 
+
+ ![alt text](Project-1 Graphs/Budget vs Box Office IMDB heatmap.png)
 
 The linear regressions r-squared value was around 0.49 so the strength of the model can explain around 49% of the variance in the outcome variable which is relatively high. 
 
