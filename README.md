@@ -52,7 +52,7 @@ Main Findings:
 - The horror movie genre is the best movie to make if looking to get the highest ROI percentage or if you have a low budget
 
 ### "Top 10 Multigenres for Oscar movies vs. Non-Oscar movies"
-For our next analysis, we decided to analyze which movie genres were most commonly found in the top 10 Oscar nominated movies vs Non-Oscar movies. We utilized the datasets multigenre data instead of splitting into signle genre values as the more broad genres such as "Drama" would be overly represented. We wanted to find the best most frequent genre combinations.
+For our next analysis, we decided to analyze which movie genres were most commonly found in the top 10 Oscar nominated movies vs Non-Oscar movies. Our objective was to analyze the most frequent genre combinations of the movies. We decided to utilize the multigenre data already in the dataset instead of splitting them into singular genre values since more broad genres such as "Drama" would be overly represented.
 
 ### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 
