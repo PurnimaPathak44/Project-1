@@ -31,9 +31,9 @@ Columns included:
 "Movie ID, Budget, Revenue, Profit, Title, Cast, Directors, Popularity, Keywords, Runtime, Genres, Production Company, and Release Date."
 
 ### OMDb API: 
-Used Movie IDs in Kaggle Data to create requests.
-Supplemented Kaggle Data with 
+Used Movie IDs in Kaggle Data to create requests from the OMDb API.
 
+Supplemented Kaggle Data with:
 "Writer, Awards, Ratings, Metascore, Imdb Rating, and Imdb Votes" for each movie
 
 ## Analysis and Findings
