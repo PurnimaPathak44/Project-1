@@ -122,6 +122,6 @@ Similar to the average profits, PG and R movies were the most popular until arou
 ## Conclusion
 After our analysis, we have discovered some significant patterns and variables that lead to a successful movie. 
 
-From our first analysis on Budget vs Box Office Revenue with IMDb Rating...
+Based Budget vs Box Office Revenue analysis scatter plots we can conclude that if you want a guaranteed higher Box Office Revenue, you may have to have use an increased budget. The r-squared-value of budget vs box office revenue was 0.49 which tells us that having an increased movie budget has a relationship with higher revenue. Similarly, the scatter plot heatmap verifies that the movie has to be well made to get higher review ratings which is strengthened by having an increased budget. 
 
-
+We also can conclude if you have a low budget then the best option for financial box office success would be to make a horror genre movie as they require a small budget and have a high ROI.
