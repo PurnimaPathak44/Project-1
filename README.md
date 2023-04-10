@@ -62,6 +62,13 @@ Two bar graphs were created for the Top 10 Oscar Movies Multigenres and Top 10 N
 
 The Oscar movies appeared to have more Drama and Adventure movies while Non-Oscar movies had much more Comedy and Thriller movies. This could be explained by the Oscar movies on average being more serious and artistic style movies that are favored by movie critcs while Non-Oscar movies can have more comedy and thrilling fun movies that an average audience would enjoy.
 
+THe top 10 multigenres were grouped together into a dataframe by the mean of 'profit', 'revenue', 'budget', 'imdbRating', and 'popularity'.
+
+The three most profitable multigenres were: 
+- ['Adventure', ' Family', ' Sci-Fi']	7.824106e+08
+- ['Fantasy']	7.377018e+08	
+- ['Adventure', ' Fantasy'] 7.051198e+08
+
 ### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 
 ### "Top 10 Directors vs Revenue and Runtime Regression"
