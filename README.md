@@ -24,7 +24,7 @@ Our main questions are:
 - "What variables influence Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)?"
 - "What variables influence Popularity?"
 
-This provided Rutgers with multiple options for how they will produce their version of a successful movie.
+This provides Rutgers with multiple options for how they will produce their version of a successful movie.
 
 ## Data Collection and Cleanup
 Utilizing Kaggle datasets and The Open Movie Database API (OMDb API) the main dataset was created.
