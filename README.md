@@ -19,7 +19,7 @@ Because success can be defined in several different ways depending on what a com
 
 The Group-5 Agency performed analysis on all five of these success metrics. 
 
-This provided Rutgers with multiple options for how they will produce their version of a “successful movie”.
+This provided Rutgers with multiple options for how they will produce their version of a successful movie.
 
 ## Data Collection and Cleanup
 Utilizing Kaggle datasets and The Open Movie Database API (OMDb API) the main dataset was created.
@@ -45,3 +45,4 @@ After deleting unwanted columns and merging the API data with the main Kaggle da
 ### "Top 10 Directors vs Revenue and Runtime Regression"
 
 ## Conclusion
+After our analysis, we have discovered some significant patterns and variables that lead to a succesful movie. 
