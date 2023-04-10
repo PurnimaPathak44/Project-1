@@ -83,6 +83,9 @@ Main Findings:
 - If the success goal is to make a highly rated movie, then the multigenre containing Drama and War may be a good option as they have the highest IMDb Ratings on average.
 
 ### "Movie Film Ratings (G, PG, PG-13, R) Analysis"
+The next analysis focuses on finding the differences between the four movie film rating (G, PG, PG-13, and R).
+
+
 
 ### "Top 10 Directors vs Revenue and Runtime Regression"
 
