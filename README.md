@@ -113,7 +113,7 @@ The average budget was similar for all ratings until around 1996 where G, PG, an
 
 ![Film Ratings Popularity per Year](https://user-images.githubusercontent.com/124934770/230953883-06a6983e-d334-412d-9ef4-aebdbb9b86b7.png)
 
-Similar to the average profits, PG and R movies were the most popular until around 1982 when G movies started to increase. With the introduction of PG-13 movies in 1984, we see the decrease in PG and R movies. This could be due to PG and R movies becoming less saturated since films can now be split into a new in-between rating. G rated movies had a "golden popularity" era around the early 1990's but then all film ratings started even out and similar popularity after. More recently, PG-13 and R rated movies seemed to have had an increase in popularity starting somewhere around 2013.
+Similar to the average profits, PG and R movies were the most popular until around 1982 when G movies started to increase. With the introduction of PG-13 movies in 1984, we see the decrease in PG and R movies. This could be due to PG and R movies becoming less saturated since films can now be split into a new in-between rating. G rated movies had a "golden popularity" era around the early 1990's. After that, all four film ratings started to even out and generate similar popularity ratings. More recently, PG-13 and R rated movies seemed to have had an increase in popularity starting somewhere around 2013.
 
 ### 4. "Top 10 Directors vs Revenue and Runtime Regression"
 
