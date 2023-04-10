@@ -101,8 +101,17 @@ Next we wanted to analyze the Award wins vs Oscar wins vs Box Office Revenue. Aw
 
 We noticed that there was a large concentrated cluster around 0-50 award wins and 0-4 Oscar wins. This makes sense as winning hundreds of awards or more than 1 Oscar is a difficult feat. The regression performed shows that there is an r-squared value of 0.55 which demonstrates a moderately high correlation and 55% variance explained by the model. Movie that win more awards will usually win more Oscars as well indicated by the quality of the movie. 
 
+We also created a function to compare different movie keyword percentages between Oscar Winners and Non-Oscar Winners.
+
 ![Keywords percentages in Oscar winners vs Non-Oscar winners](https://user-images.githubusercontent.com/124934770/230976013-f3f9b6ed-6614-46cd-bc72-c1ad631eb726.png)
 
+The top 3 movies with common keywords were:
+
+- Based on Novel
+- Gay
+- Saving the World
+
+Non-Oscar Winners had a higher percenage of movies base on novels than Oscar winners, while Oscar winners had a slightly higher percentage for saving the world.
 
 ### 4. "Movie Film Ratings (G, PG, PG-13, R) Analysis"
 The next analysis focuses on finding the differences between the four movie film ratings (G, PG, PG-13, and R).
