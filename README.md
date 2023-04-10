@@ -39,6 +39,9 @@ Supplemented Kaggle Data with:
 After deleting unwanted columns and merging the API data with the main Kaggle data, we had a dataset containg 1178 rows and 26 columns.
 
 ## Analysis and Findings
+### "Budget vs Box Office Revenue with IMDb Rating".
+
+
 
 
 ## Conclusion
