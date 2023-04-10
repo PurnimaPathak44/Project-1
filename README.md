@@ -12,7 +12,7 @@ Financial success? Critical acclaim? Public popularity?
 Because success can be defined in several different ways depending on what a company desires, The Group-5 Agency decided to create a list of success metrics.
 
 - Box Office Revenue $
-- Return on Investment (ROI)
+- Profit and Return on Investment (ROI)
 - Movie Review Ratings (IMDb, Rotten Tomatoes, Metacritic)
 - Award Wins/Nominations (Oscars)
 - Popularity
