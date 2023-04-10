@@ -142,9 +142,11 @@ We ended with an anlaysis of the top 10 directors and their average box office r
 
 ![Top 10 Directors vs Box Office Revenue](https://user-images.githubusercontent.com/124934770/230995835-73ea6349-d056-4cba-9fb8-723cf22e4e6e.png)
 
-It is seen that James Cameron has the topmost average revenue generated with his 3 movies in the dataset, followed by Colin Trevorrow who has only one movie and is the second top Director. This is also one of the limitations of this data that the analysis is not fair as we are not comparing the equal amount of movies per director so when we are generating the average revenue, we are taking 3 movies from James whereas we are only taking one movie from Colin.
+It is seen that James Cameron has the topmost average revenue generated with his 3 movies in the dataset, followed by Colin Trevorrow who has only one movie and is the second top Director. This is also one of the limitations of this data that the analysis is not fair as we are not comparing the equal amount of movies per director so when we are generating the average revenue, we are taking 3 movies from James whereas we are only taking one movie from Colin. This graph omitted the directors with higher number of movie count so we decided to generate a graph of smaller sample of directors who did 5 or more movies and see how much mean revenue they generated.
 
 ![Top 10 Directors 5 or more](https://user-images.githubusercontent.com/124934770/230995864-8005a570-bbb6-4694-bbee-dbc5c1983228.png)
+
+Looking at the graph of Directors who did 5 or more movies Vs Revenue, it is seen that Peter Jackson did 8 movies and his average revenue is the greatest. When we compare this graph with the Top 10 Directors vs Revenue graph, we see that the revenue is higher in the first graph. We must however consider that the more movies a director makes, his/her experience increases. We also need to consider that this is the mean revenue. It will be affected as the movie count per director increases.
 
 
 We also wanted to see if runtime (movie length in minutes) had any correlation with box office revenue. However we found that the r-squared value was very low, which tells us that the length of a movie doesn't have much of an affect on the box office revenue a movie earns. 
