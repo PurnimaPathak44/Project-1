@@ -44,7 +44,7 @@ Utilizing the budget and box office revenue variables, we created a scatter plot
 
 The linear regressions r-squared value was around 0.49 so the strength of the model can explain around 49% of the variance in the outcome variable which is relatively high. 
 
-The ROI was also calculated and added to the dataframe. We printed the top 10 highest-grossing movies with ROI and IMDb Rating and found that movies in the Horror genre had the highest ROI. This can be explained by their extremely low budgets compared to the revenue they generated. For example, "Paranormal Activity had the highest ROI with a budget of $15,0000 and revenue of $193,355,800 giving it an incredbily high ROI percentage of 1,288,939%.
+The ROI was also calculated and added to the dataframe. We printed the top 10 highest-grossing movies with ROI and IMDb Rating and found that movies in the Horror genre had the highest ROI. This can be explained by their extremely low budgets compared to the revenue they generated. For example, "Paranormal Activity" had the highest ROI with a budget of $15,0000 and revenue of $193,355,800 giving it an incredbily high ROI percentage of 1,288,939%.
 
 Main Findings: 
 - The more money that is put into the production of a movie, the higher revenue is generated. 
