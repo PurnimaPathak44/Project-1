@@ -32,6 +32,6 @@ Columns included the Movie ID, Budget, Revenue, Profit, Title, Cast, Directors, 
 Used Movie IDs in Kaggle Data to create requests.
 Supplemented Kaggle Data with the Writer, Awards, Ratings, Metascore, Imdb Rating, and Imdb Votes for each movie
 
-## Findings
+## Analysis and Findings
 
-## Analysis and Conclusion
+## Conclusion
